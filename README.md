@@ -1,4 +1,5 @@
-<img src="./assets/aleyna-animation.svg" width="100%">
+<img src="assets/aleyna-animation.svg" width="100%">
+
 # Merhaba, ben Aleyna 👩‍💻
 AI & Cloud Developer  
 🐍 Python | ⚡ FastAPI | 🐳 Docker | ☁️ Azure | 🧠 LangChain
