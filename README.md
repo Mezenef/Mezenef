@@ -1,13 +1,3 @@
-<img src="assets/aleyna-animation.svg" width="100%">
+<h4 align="center"><samp>Selam 👋 ben Aleyna! Biruni Üniversitesi'nde Bilgisayar Mühendisliği (İngilizce) okuyorum ve yazılım dünyasını keşfediyorum 🐍💻</samp></h4> <p align="center"> <img width="320" src="avatar.svg" alt="orbiting tech avatar"> </p> <p align="center"> <a href="https://github.com/Mezenef"><img src="https://img.icons8.com/ios-glyphs/32/000000/github.png"/></a> <!-- LinkedIn/e-posta gibi başka linklerin varsa buraya aynı formatta ekleyebilirsin --> </p> <p align="center"><samp> Repolarıma göz atmayı unutma ⬇️ </samp></p>
 
-
-# Merhaba, ben Aleyna 👩‍💻
-AI & Cloud Developer  
-🐍 Python | ⚡ FastAPI | 🐳 Docker | ☁️ Azure | 🧠 LangChain
-
-<img src="./assets/aleyna-animation.svg" width="100%">
-
-## 🚀 Öne Çıkan Projeler
-- [CostBot](https://github.com/username/CostBot)
-- [AI Tools](https://github.com/username/AI-Tools)
 
